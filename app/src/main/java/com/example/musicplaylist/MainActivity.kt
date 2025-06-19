@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity()
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val songInput = findViewById<EditText>(id.song)
+        val songInput = findViewById<EditText>(id.songInput)
         val artistInput = findViewById<EditText>(id.artist)
         val ratingsInput = findViewById<EditText>(id.ratingsInput)
         val commentInput = findViewById<EditText>(id.commentInput)

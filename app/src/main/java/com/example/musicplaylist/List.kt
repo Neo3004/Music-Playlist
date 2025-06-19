@@ -35,7 +35,7 @@ class List : AppCompatActivity()
         }
         val backButton = findViewById<Button>(R.id.backButton)
         button.setOnClickListener{
-            val startActivity (Intent(this, MainActivity::class.java))
+            val startActivity(Intent(this, MainActivity::class.java))
 
         }
     }
