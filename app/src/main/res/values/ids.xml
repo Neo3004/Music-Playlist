@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="songInput" type="id" />
+    <item name="addButton" type="id">addButton</item>
+    <item name="listOutput" type="id" />
+    <item name="showAllButton" type="id" />
+    <item name="showFilteredButton" type="id" />
+    <item name="backButton" type="id" />
+</resources>
